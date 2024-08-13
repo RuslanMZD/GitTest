@@ -1,2 +1,0 @@
-print("HALOW")
-print("HALOW")
