@@ -55,4 +55,6 @@ def test_kwargs(**kwargs):
 test_kwargs(name="Name",last_name="Last Name")
 
 print("NEW BRANCH")
+<<<<<<< HEAD
 # ЧТО ТОПИШУ
+
